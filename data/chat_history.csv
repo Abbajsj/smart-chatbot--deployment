@@ -1,0 +1,13 @@
+"timestamp,username,question,answer,confidence"2025-12-19 07:01:40,Abhiram,Can you help me out with low volume production?,Q: Can you help with low-volume production?,1.0
+2025-12-19 07:03:05,Abhiram,give best visual prototype?,Q: Which material is best for visual prototypes?,0.568
+2025-12-19 07:16:16,Abhi,which metal you can print,"Stainless steel, aluminium, and titanium are the most common.",0.622
+2025-12-19 09:37:27,abhiram,how fast can i get order and can i send my cad file,"Usually 5–6 days, but it depends on the material and complexity. We",0.751
+2025-12-19 09:38:42,abhiram,do u ship all over australia and do you offer express printing,Yep! We deliver across Australia and also ship internationally.,0.789
+2025-12-19 09:52:49,ram,which material do u print and what size objects u can scan,"1. What materials can you print with?
+2. What size objects can you scan?",1.0
+2025-12-19 10:01:00,abhi,can you handle low quality and will i get heat resistance materials,"1. That’s one of our specialties — we do both prototyping and low-volume
+2. Yes — Nylon PA12, ULTEM, and certain resins can handle high",1.0
+2025-12-19 10:04:24,abhi,prime minister of india,"Sorry, I couldn't find relevant information.",0.0
+2025-12-19 10:19:11,Ram,do u offer milling and wt material supported for CNC machining,"1. Yes, we offer CNC milling and turning for high-precision parts in metals
+2. Aluminium, stainless steel, titanium, brass, and engineering plastics",1.0
+2025-12-21 11:00:18,Abhiram,what quality of material is provided you,"1. ABS, Nylon (PA12), and TPU are great for strong, working parts.",1.0
