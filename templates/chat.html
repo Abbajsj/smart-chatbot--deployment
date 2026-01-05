@@ -3,77 +3,40 @@
 <head>
     <meta charset="utf-8">
     <title>Smart Text Bot</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-        }
-        input {
-            padding: 8px;
-            margin: 5px 0;
-            width: 300px;
-        }
-        button {
-            padding: 8px 12px;
-            margin-left: 5px;
-            cursor: pointer;
-        }
-        #chat {
-            border: 1px solid #ccc;
-            padding: 10px;
-            width: 500px;
-            height: 300px;
-            overflow-y: auto;
-            white-space: pre-wrap;
-            margin-top: 20px;
-        }
-        label {
-            font-weight: bold;
-        }
-    </style>
 </head>
 <body>
 
 <h2>Smart Text Bot</h2>
 
-<form onsubmit="send(); return false;">
-    <label for="username">Your Name:</label><br>
-    <input type="text" id="username" placeholder="Enter your name"><br><br>
+<input id="username" placeholder="Enter your name"><br><br>
 
-    <label for="question">Your Question:</label><br>
-    <input type="text" id="question" placeholder="Ask a question">
-    <button type="button" onclick="send()">Send</button>
-</form>
+<input id="question" placeholder="Ask your question">
+<button onclick="send()">Send</button>
 
 <pre id="chat"></pre>
 
 <script>
+const CHAT_URL = "{{ url_for('chat') }}";
+
 function send() {
     const username = document.getElementById("username").value.trim();
     const question = document.getElementById("question").value.trim();
 
-    if (!username) {
-        alert("Please enter your name");
+    if (!username || !question) {
+        alert("Please enter name and question");
         return;
     }
 
-    if (!question) {
-        alert("Please enter a question");
-        return;
-    }
-
-    fetch("/chat", {
+    fetch(CHAT_URL, {
         method: "POST",
         headers: {"Content-Type": "application/json"},
         body: JSON.stringify({username, question})
     })
     .then(res => res.json())
     .then(data => {
-        const chatBox = document.getElementById("chat");
-        chatBox.innerText +=
-            "You: " + data.question + "\n" +
+        document.getElementById("chat").innerText +=
+            "You: " + question + "\n" +
             "Bot: " + data.answer + "\n\n";
-        chatBox.scrollTop = chatBox.scrollHeight; // auto-scroll
     });
 
     document.getElementById("question").value = "";

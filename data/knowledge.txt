@@ -2,26 +2,22 @@ Q: What materials can you print with?
 Q: Do you only print in plastic, or do you have other materials too?
 Q: What materials are available in 3D printing?
 A: We’ve got you covered with 45+ options — everything from standard
-plastics like PLA and ABS, to Nylon, resins, and even metals like
-aluminium, stainless steel, and titanium.
+plastics like PLA and ABS, to Nylon, resins, and even metals like aluminium, stainless steel, and titanium.
 
 Q: I just need a low-cost prototype. Do you have budget-friendly options?
 Q: Do you have low-cost materials for prototypes?
-A: Absolutely! PLA and ABS are our most affordable and popular choices
-for prototypes.
+A: Absolutely! PLA and ABS are our most affordable and popular choices for prototypes.
 
 Q: How big can you print in one go?
 Q: What’s the largest part you can make?
 Q: Do you guys have a size limit for printing?
 Q: What is the maximum print size?
-A: Our largest SLA printer can go up to 750 × 750 × 1700 mm — pretty
-huge!
+A: Our largest SLA printer can go up to 750 × 750 × 1700 mm — pretty huge!
 
 Q: What kind of accuracy do your printers deliver?
 Q: How precise can your 3D prints get?
 Q: How accurate are your 3D prints?
-A: Very accurate — up to ±0.1 mm, depending on the material and size of
-the part.
+A: Very accurate — up to ±0.1 mm, depending on the material and size of the part.
 
 Q: Do you also handle finishing touches?
 Q: Do you guys handle polishing or painting too?
@@ -30,16 +26,14 @@ A: Yes! We can polish, paint, coat, or even assemble parts if you need.
 
 Q: Can you make actual functional parts, or just prototypes?
 Q: Do you only do prototypes, or can you make real working parts too?
-A: Both. We print concept prototypes as well as strong, production-ready
-parts.
+A: Both. We print concept prototypes as well as strong, production-ready parts.
 
 Q: How fast can I get my order?
 Q: How fast can I get my parts?
 Q: What’s the usual turnaround time for orders?
 Q: How long does it take to get parts printed and delivered?
 Q: If I place an order today, when can I expect my parts?
-A: Usually 5–6 days, but it depends on the material and complexity. We
-also offer express options if you’re in a rush.
+A: Usually 5–6 days, but it depends on the material and complexity. We also offer express options if you’re in a rush.
 
 Q: Can I send CAD files directly?
 Q: Do you accept CAD files directly?
@@ -52,8 +46,7 @@ Q: How can I get in touch with you for a quote?
 Q: What’s the best way to share my project details?
 Q: How do I submit my 3D files for pricing?
 Q: Can I email you my CAD files directly?
-A: You can upload your 3D file in the Upload 3D section on our website, or
-you can send it via email to info@zeal3dprinting.com.au.
+A: You can upload your 3D file in the Upload 3D section on our website, or you can send it via email to info@zeal3dprinting.com.au.
 
 Q: Do you ship all over Australia?
 Q: Do you ship across Australia?
@@ -63,8 +56,7 @@ A: Yep! We deliver across Australia and also ship internationally.
 Q: Can you handle bulk production too?
 Q: Is bulk printing possible?
 Q: Do you guys do batch printing?
-A: Of course. From a single prototype to large batch runs, we can manage
-both.
+A: Of course. From a single prototype to large batch runs, we can manage both.
 
 Q: Do you offer express/urgent printing?
 Q: Do you offer express printing?
@@ -79,41 +71,35 @@ A: Yes — stainless steel, aluminium, titanium, and more.
 Q: I don’t have a design file. Can you help with that?
 Q: Do you offer design assistance?
 Q: Can you guys help me out with the design too?
-A: Definitely. Our team can help optimize your design and prepare files for
-printing.
+A: Definitely. Our team can help optimize your design and prepare files for printing.
 
 Q: Do you only do 3D printing?
 Q: Do you also provide CNC machining or vacuum casting?
 Q: Do you offer other manufacturing options like CNC or vacuum casting?
 Q: Apart from 3D printing, do you guys do CNC machining?
-A: Nope! We also offer CNC machining, vacuum casting, and injection
-moulding.
+A: Nope! We also offer CNC machining, vacuum casting, and injection moulding.
 
 Q: What if I need small-batch production?
 Q: Can you help with low-volume production?
 Q: Do you guys do small-batch runs too?
 Q: Can you handle low-quantity production?
-A: That’s one of our specialties — we do both prototyping and low-volume
-manufacturing there is no MOQ.
+A: That’s one of our specialties — we do both prototyping and low-volume manufacturing there is no MOQ.
 
 Q: What info do you need to give me a quote?
 Q: What information do you need for a quote?
 Q: What details do you need from me to get a quote?
-A: Just send us your 3D file, preferred material, quantity, and finishing
-needs.
+A: Just send us your 3D file, preferred material, quantity, and finishing needs.
 
 Q: Is my project safe with you? Can you sign an NDA?
 Q: Do you sign NDAs for confidential projects?
 Q: Can we keep things under NDA for privacy?
 Q: Is it okay to have an NDA in place before sharing files?
-A: 100%. We handle confidential projects all the time and are happy to
-sign NDAs.
+A: 100%. We handle confidential projects all the time and are happy to sign NDAs.
 
 Q: Are your materials durable enough for end-use parts?
 Q: Are the materials durable for end-use parts?
 Q: Are your materials tough enough for end use?
-A: Yes — we offer engineering-grade materials that perform in real-world
-conditions.
+A: Yes — we offer engineering-grade materials that perform in real-world conditions.
 
 Q: What’s best for visual display prototypes?
 Q: Which material looks best for showing off a model?
@@ -130,8 +116,7 @@ A: ABS, Nylon (PA12), and TPU are great for strong, working parts.
 Q: Do you have heat-resistant materials?
 Q: I need something heat-resistant materials — do you have that?
 Q: Can you print materials that handle high heat-resistant?
-A: Yes — Nylon PA12, ULTEM, and certain resins can handle high
-temperatures.
+A: Yes — Nylon PA12, ULTEM, and certain resins can handle high temperatures.
 
 Q: I need lightweight but strong parts. Any suggestions?
 Q: What’s the best material for lightweight but strong parts?
@@ -174,38 +159,32 @@ A: Nylon PA12 reinforced with glass or carbon fibre is extremely tough.
 Q: Can you scan physical objects into 3D models?
 Q: Do you provide 3D scanning services?
 Q: Can you turn an existing part into a 3D file?
-A: Yes, we provide high-precision 3D scanning services to capture
-accurate digital models of physical objects.
+A: Yes, we provide high-precision 3D scanning services to capture digital models of physical objects.
 
 Q: What size objects can you scan?
 Q: Do you handle both small and large objects for scanning?
 Q: Is there a size limit for your 3D scanning services?
-A: From small components (a few centimeters) to large industrial parts
-over a meter, we can handle a wide range of sizes.
+A: From small components (a few centimeters) to large industrial parts over a meter, we can handle a wide range of sizes.
 
 Q: What file formats do you provide after scanning?
 Q: Do you give CAD files after scanning?
 Q: Which file types will I get from 3D scanning?
-A: We typically deliver .STL, .OBJ, or .STEP files, depending on your
-requirements.
+A: We typically deliver .STL, .OBJ, or .STEP files, depending on your requirements.
 
 Q: Is 3D scanning accurate enough for manufacturing?
 Q: How precise are your 3D scans?
 Q: Can your 3D scans be used for reverse engineering?
-A: Yes, our scanners deliver accuracy up to ±0.05 mm, making them
-suitable for reverse engineering and quality inspection.
+A: Yes, our scanners deliver accuracy up to ±0.05 mm, making them suitable for reverse engineering and quality inspection.
 
 Q: Do you provide CNC machining along with 3D printing?
 Q: Apart from 3D printing, can you make CNC parts too?
 Q: Do you also offer milling and turning services?
-A: Yes, we offer CNC milling and turning for high-precision parts in metals
-and plastics.
+A: Yes, we offer CNC milling and turning for high-precision parts in metals and plastics.
 
 Q: What materials can you CNC machine?
 Q: Do you work with metals as well as plastics in CNC?
 Q: Which materials are supported for CNC machining?
-A: Aluminium, stainless steel, titanium, brass, and engineering plastics
-like POM, Nylon, and PEEK.
+A: Aluminium, stainless steel, titanium, brass, and engineering plastics like POM, Nylon, and PEEK.
 
 Q: How accurate are your CNC parts?
 Q: What tolerances can you achieve in CNC machining?
@@ -215,32 +194,27 @@ A: Our CNC machining can achieve tolerances as tight as ±0.01 mm.
 Q: What’s the maximum part size for CNC machining?
 Q: Do you have a size limit for CNC machining?
 Q: How big of a part can you machine?
-A: We can machine parts up to 1,000 × 600 × 500 mm, depending on
-material and complexity.
+A: We can machine parts up to 1,000 × 600 × 500 mm, depending on material and complexity.
 
 Q: Can you handle both prototypes and production runs in CNC?
 Q: Do you take small as well as bulk CNC orders?
 Q: Is CNC machining good for both one-offs and mass production?
-A: Absolutely — from one-off prototypes to full-scale production, we’ve
-got you covered.
+A: Absolutely — from one-off prototypes to full-scale production, we’ve got you covered.
 
 Q: What is vacuum casting?
 Q: Can you explain the vacuum casting process?
 Q: How does vacuum casting work?
-A: Vacuum casting is a process where silicone moulds are used to produce
-high-quality plastic prototypes and small-batch parts.
+A: Vacuum casting is a process where silicone moulds are used to produce high-quality plastic prototypes and small-batch parts.
 
 Q: What materials are available in vacuum casting?
 Q: Do you offer different resin options for vacuum casting?
 Q: Can vacuum casting mimic injection moulding plastics?
-A: A wide range of polyurethane resins mimicking ABS, PP, rubber, and
-even transparent materials.
+A: A wide range of polyurethane resins mimicking ABS, PP, rubber, and even transparent materials.
 
 Q: How many parts can you make with vacuum casting?
 Q: What’s the typical mould life in vacuum casting?
 Q: How many copies can one silicone mould produce?
-A: A single silicone mould can typically produce 15–25 parts before
-needing replacement.
+A: A single silicone mould can typically produce 15–25 parts before needing replacement.
 
 Q: What’s the typical lead time for vacuum casting parts?
 Q: How long does it take to get vacuum cast parts?
