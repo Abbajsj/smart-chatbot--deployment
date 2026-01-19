@@ -226,3 +226,682 @@ Q: Can vacuum cast parts be used for real applications?
 Q: Are vacuum cast parts strong enough for prototypes?
 A: Yes, vacuum-cast parts are durable and can be used for functional
 testing, marketing samples, and low-volume production.
+
+Q: What primary service does Zeal 3D Printing offer?
+A: Zeal 3D Printing offers industrial 3D printing and rapid prototyping services.
+
+Q: What 3D printing technologies are available at Zeal 3D?
+A: They use FDM, SLS, SLA, PolyJet, MJM, MJF, DMLS, and SLM technologies.
+
+Q: Can Zeal 3D handle both plastic and metal 3D printing?
+A: Yes, they provide services for both plastic and metal 3D printing.
+
+Q: Does Zeal 3D offer vacuum casting services?
+A: Yes, they provide vacuum casting for low-volume manufacturing and prototypes.
+
+Q: What materials are used in vacuum casting at Zeal 3D?
+A: Materials include polyethylene, polypropylene, PVC, and polyurethane resins.
+
+Q: Are Zeal 3D vacuum cast parts suitable for functional testing?
+A: Yes, vacuum cast parts are high-quality and fit for functional testing and prototypes.
+
+Q: How many copies can Zeal 3D make from a single vacuum casting master mold?
+A: Up to about 50 parts from one silicone Mold.
+
+Q: Does Zeal 3D provide CNC machining services?
+A: Yes, CNC machining services are part of their manufacturing offerings.
+
+Q: Can Zeal 3D assist with injection molding?
+A: Yes, they offer plastic injection molding services.
+
+Q: Does Zeal 3D serve customers across Australia?
+A: Yes, they provide services Australia-wide including VIC, NSW, QLD, WA, and TAS.
+
+Q: Is Zeal 3D able to help with design and CAD support?
+A: Yes, they assist with 3D design and CAD support.
+
+Q: Can customers get a quote online from Zeal 3D?
+A: Yes, Zeal 3D offers an online instant quote feature.
+
+Q: What file formats does Zeal 3D accept for 3D printing projects?
+A: They accept STL, STEP, WRL, 3MF, DAE, OBJ, and similar formats.
+
+Q: Do Zeal 3D services include 3D scanning?
+A: Yes, 3D scanning is offered, including large-object and dimensional scanning.
+
+Q: Does Zeal 3D offer reverse engineering services?
+A: Yes, reverse engineering via 3D scanning is available.
+
+Q: Can Zeal 3D help with metal component printing?
+A: Yes, durable metal parts can be printed with SLM and DMLS processes.
+
+Q: Are Zeal 3D printed parts suitable for final production?
+A: Yes, parts can be used for both prototypes and limited production runs.
+
+Q: Is SLA printing available at Zeal 3D?
+A: Yes, stereolithography (SLA) is one of the services provided.
+
+Q: Can Zeal 3D produce highly detailed parts?
+A: Yes, methods like SLA and PolyJet are ideal for high-detail parts.
+
+Q: What industries does Zeal 3D serve?
+A: They work with automotive, medical, architecture, education, and more.
+
+Q: Does Zeal 3D provide material recommendations?
+A: Yes, they can suggest the best material based on application and part use.
+
+Q: Are Zeal 3D prototypes suitable for marketing samples?
+A: Yes, prototypes can be made for marketing and display.
+
+Q: Can Zeal 3D handle complex geometries?
+A: Yes, technologies like MJF and SLS handle complex designs.
+
+Q: Are Zeal 3D services affordable?
+A: They claim to provide cost-effective services.
+
+Q: Does Zeal 3D offer painting and surface finishes?
+A: Yes, post-processing including painting and finishing is available.
+
+Q: Can I upload a file directly to Zeal 3D for printing?
+A: Yes, file upload is part of the quote process.
+
+Q: Does Zeal 3D handle urgent orders?
+A: On-time project delivery is one of their commitments.
+
+Q: Can Zeal 3D create parts for aerospace applications?
+A: Yes, they support aerospace prototyping.
+
+Q: Is Zeal 3D capable of making dental or medical models?
+A: Yes, they print prosthetic and dental implant models.
+
+Q: Are vacuum cast parts strong?
+A: Yes, they can approximate the strength of injection-molded parts.
+
+Q: Can Zeal 3D produce flexible material parts?
+A: Yes, materials like TPU can be used for flexible prints.
+
+Q: Does Zeal 3D work with nylon materials?
+A: Yes, nylon is among the offered materials.
+
+Q: Is Zeal 3D good for outdoor-use functional parts?
+A: Yes, ASA material suitable for UV and outdoor resistance is offered.
+
+Q: Do they work with ABS material?
+A: Yes, ABS is available for durable parts.
+
+Q: Can Zeal 3D print in transparent materials?
+A: Yes, transparent acrylic printing is offered.
+
+Q: Are parts made in more than 40 materials?
+A: Yes, they provide printing in over 40 materials.
+
+Q: Can Zeal 3D handle both prototype and production volumes?
+A: Yes, they support rapid prototyping as well as small batch production.
+
+Q: Do Zeal 3D services include laser cutting?
+A: Laser cutting is part of their manufacturing services.
+
+Q: Are Zeal 3D parts suitable for engineering testing?
+A: Yes, they are used for functional testing and engineering requirements.
+
+Q: What is FDM 3D printing used for at Zeal 3D?
+A: FDM is used for cost-effective prototypes, functional parts, and concept models.
+
+Q: Is SLS printing suitable for complex geometries?
+A: Yes, SLS printing allows complex geometries without support structures.
+
+Q: What advantages does MJF printing offer?
+A: MJF offers high strength, fine detail, and consistent mechanical properties.
+
+Q: Does Zeal 3D provide metal 3D printing for industrial use?
+A: Yes, metal printing is suitable for industrial and engineering applications.
+
+Q: Can Zeal 3D print heat-resistant components?
+A: Yes, high-temperature materials are available for heat-resistant parts.
+
+Q: Are Zeal 3D printed parts dimensionally accurate?
+A: Yes, industrial machines ensure high dimensional accuracy.
+
+Q: Can Zeal 3D help optimize designs for 3D printing?
+A: Yes, they offer design optimization guidance.
+
+Q: What is SLA printing best suited for?
+A: SLA is ideal for smooth surface finishes and fine details.
+
+Q: Are vacuum-cast parts visually similar to injection-molded parts?
+A: Yes, vacuum casting closely replicates injection-molded finishes.
+
+Q: How long does vacuum casting typically take?
+A: Production usually takes a few days depending on part complexity.
+
+Q: Can Zeal 3D produce small batch manufacturing runs?
+A: Yes, they specialize in low-volume production.
+
+Q: Is CNC machining more accurate than 3D printing?
+A: CNC machining offers higher precision for tight-tolerance parts.
+
+Q: Does Zeal 3D offer hybrid manufacturing solutions?
+A: Yes, they combine 3D printing with CNC machining when needed.
+
+Q: Can Zeal 3D print parts with moving mechanisms?
+A: Yes, assemblies with moving parts can be produced.
+
+Q: Are nylon parts available at Zeal 3D?
+A: Yes, nylon is commonly used for strong and durable components.
+
+Q: Can Zeal 3D create jigs and fixtures?
+A: Yes, custom jigs and fixtures are commonly produced.
+
+Q: Are Zeal 3D parts suitable for end-use products?
+A: Yes, many materials are suitable for end-use applications.
+
+Q: What post-processing options are available?
+A: Options include sanding, polishing, painting, and coating.
+
+Q: Can Zeal 3D color match parts for branding purposes?
+A: Yes, painting and finishing services are available.
+
+Q: Is PolyJet printing available?
+A: Yes, PolyJet is used for high-detail and multi-material parts.
+
+Q: Can Zeal 3D print rubber-like materials?
+A: Yes, flexible and elastomeric materials are available.
+
+Q: Are 3D printed parts suitable for electrical enclosures?
+A: Yes, suitable materials are available for enclosures.
+
+Q: Can Zeal 3D support startups and small businesses?
+A: Yes, they work extensively with startups.
+
+Q: Is reverse engineering possible without CAD files?
+A: Yes, 3D scanning enables reverse engineering without CAD.
+
+Q: Does Zeal 3D offer prototype iteration support?
+A: Yes, rapid iteration is a key service offering.
+
+Q: Are Zeal 3D services suitable for R&D teams?
+A: Yes, they support research and development projects.
+
+Q: Can Zeal 3D print architectural models?
+A: Yes, architectural and scale models are supported.
+
+Q: Are educational institutions supported by Zeal 3D?
+A: Yes, they work with universities and training centers.
+
+Q: Can Zeal 3D manufacture parts for automotive testing?
+A: Yes, automotive prototypes and fixtures are common projects.
+
+Q: What is the benefit of using SLM metal printing?
+A: SLM produces strong, dense metal components.
+
+Q: Can Zeal 3D produce corrosion-resistant parts?
+A: Yes, corrosion-resistant materials are available.
+
+Q: Are lightweight components possible with 3D printing?
+A: Yes, lattice and optimized designs reduce weight.
+
+Q: Can Zeal 3D help reduce manufacturing lead times?
+A: Yes, rapid manufacturing significantly reduces lead times.
+
+Q: Are Zeal 3D parts suitable for testing airflow or fluid flow?
+A: Yes, complex internal channels can be printed.
+
+Q: Can Zeal 3D print custom tools?
+A: Yes, custom tooling is a common application.
+
+Q: Are threaded features possible in printed parts?
+A: Yes, threads can be printed or added post-process.
+
+Q: Does Zeal 3D offer batch consistency in production?
+A: Yes, industrial processes ensure consistent quality.
+
+Q: Can Zeal 3D handle confidential projects?
+A: Yes, confidentiality is maintained for client designs.
+
+Q: What tolerance levels can be achieved?
+A: Tolerances depend on technology but are industry-grade.
+
+Q: Can Zeal 3D advise on material selection?
+A: Yes, experts guide material choice based on use case.
+
+Q: Are parts suitable for mechanical load testing?
+A: Yes, strong materials support mechanical testing.
+
+Q: Does Zeal 3D work with ABS-like resins?
+A: Yes, ABS-like resins are available for SLA and vacuum casting.
+
+Q: Can Zeal 3D print housings for electronics?
+A: Yes, enclosures and housings are commonly produced.
+
+Q: Are waterproof parts possible?
+A: Yes, appropriate materials and sealing methods are used.
+
+Q: Can Zeal 3D support mass customization?
+A: Yes, customization is a key advantage of 3D printing.
+
+Q: Are Zeal 3D parts suitable for exhibitions?
+A: Yes, high-quality finishes are ideal for display models.
+
+Q: Can Zeal 3D print replacement parts?
+A: Yes, replacement and legacy parts can be recreated.
+
+Q: Is digital inventory supported?
+A: Yes, parts can be stored digitally and produced on demand.
+
+Q: Can Zeal 3D handle tight project deadlines?
+A: Yes, fast turnaround is one of their strengths.
+
+Q: Are eco-friendly materials available?
+A: Some materials are recyclable and environmentally conscious.
+
+Q: Can Zeal 3D assist with product validation?
+A: Yes, prototypes are used for validation and testing.
+
+Q: Does Zeal 3D provide multi-material printing?
+A: Yes, PolyJet enables multi-material printing.
+
+Q: Can Zeal 3D print high-impact resistant parts?
+A: Yes, impact-resistant materials are available.
+
+Q: Are Zeal 3D parts suitable for consumer products?
+A: Yes, many consumer products are prototyped and produced.
+
+Q: Can Zeal 3D produce transparent prototypes?
+A: Yes, clear and translucent materials are available.
+
+Q: Is surface smoothness customizable?
+A: Yes, surface finishing can be tailored.
+
+Q: Can Zeal 3D manufacture snap-fit components?
+A: Yes, snap-fit designs are supported.
+
+Q: Does Zeal 3D support iterative design testing?
+A: Yes, rapid iterations are encouraged.
+
+Q: Are Zeal 3D services scalable?
+A: Yes, projects can scale from prototype to production.
+
+Q: Can Zeal 3D help bring products to market faster?
+A: Yes, rapid manufacturing accelerates time-to-market.
+
+Q: Is Zeal 3D a one-stop manufacturing solution?
+A: Yes, they offer design, printing, casting, machining, and finishing.
+
+Q: What is rapid prototyping?
+A: Rapid prototyping is the fast creation of physical models using 3D printing technologies.
+
+Q: Why choose 3D printing over traditional manufacturing?
+A: It reduces cost, lead time, and allows design flexibility.
+
+Q: Is 3D printing suitable for beginners?
+A: Yes, Zeal 3D supports beginners with guidance and consultation.
+
+Q: Can I print a single part only?
+A: Yes, even one-off parts can be produced.
+
+Q: Do I need technical knowledge to place an order?
+A: No, Zeal 3D assists throughout the process.
+
+Q: What is the most affordable 3D printing method?
+A: FDM is generally the most cost-effective option.
+
+Q: Can 3D printed parts replace broken components?
+A: Yes, replacement parts can be custom printed.
+
+Q: Are printed parts lightweight?
+A: Yes, parts can be optimized for lightweight strength.
+
+Q: Is surface finish important for visual models?
+A: Yes, smooth finishes improve visual appeal.
+
+Q: Can I get help choosing the right technology?
+A: Yes, experts recommend the best technology for your needs.
+
+Q: Are prototypes reusable?
+A: Yes, depending on material and use case.
+
+Q: Can Zeal 3D print logos or branding elements?
+A: Yes, branding features can be incorporated.
+
+Q: Is 3D printing suitable for educational projects?
+A: Yes, it is widely used in education and training.
+
+Q: Can parts be printed hollow?
+A: Yes, hollow structures reduce weight and material use.
+
+Q: Are printed parts strong enough for handling?
+A: Yes, most materials withstand normal handling.
+
+Q: Can I modify my design after printing?
+A: Yes, designs can be updated and reprinted quickly.
+
+Q: Are there size limits for 3D printing?
+A: Yes, limits depend on the printing technology.
+
+Q: Can Zeal 3D ship printed parts across Australia?
+A: Yes, nationwide delivery is available.
+
+Q: Can I print parts with text or serial numbers?
+A: Yes, text and numbering can be embedded.
+
+Q: Is 3D printing environmentally friendly?
+A: It can reduce waste compared to traditional methods.
+
+Q: What is design for manufacturability (DFM)?
+A: DFM ensures designs are optimized for efficient production.
+
+Q: Can Zeal 3D help redesign parts for better strength?
+A: Yes, design optimization services are offered.
+
+Q: What is infill in 3D printing?
+A: Infill determines internal structure and strength.
+
+Q: Can I choose different infill densities?
+A: Yes, infill can be customized based on application.
+
+Q: What is tolerance in 3D printing?
+A: Tolerance defines allowable dimensional variation.
+
+Q: Can tight-tolerance parts be produced?
+A: Yes, especially with CNC and industrial printers.
+
+Q: What is post-processing?
+A: Post-processing improves appearance and performance.
+
+Q: Can parts be sanded or painted after printing?
+A: Yes, finishing processes are available.
+
+Q: Are 3D printed threads durable?
+A: Yes, especially with inserts or reinforced designs.
+
+Q: Can metal 3D printing replace machining?
+A: In many cases, yes, especially for complex parts.
+
+Q: What is the benefit of lattice structures?
+A: They reduce weight while maintaining strength.
+
+Q: Can Zeal 3D produce ergonomic designs?
+A: Yes, custom ergonomic parts can be printed.
+
+Q: Is batch production consistent?
+A: Yes, industrial controls ensure repeatability.
+
+Q: Can Zeal 3D support pilot production runs?
+A: Yes, ideal for testing before mass production.
+
+Q: What industries benefit most from 3D printing?
+A: Automotive, medical, aerospace, and consumer products.
+
+Q: What is anisotropy in 3D printing?
+A: It refers to strength differences along print directions.
+
+Q: Can print orientation affect part strength?
+A: Yes, orientation significantly impacts mechanical properties.
+
+Q: Does Zeal 3D consider load direction in design?
+A: Yes, designs are optimized for real-world loads.
+
+Q: What is DMLS technology?
+A: Direct Metal Laser Sintering fuses metal powder into solid parts.
+
+Q: Are metal printed parts fully dense?
+A: Yes, SLM and DMLS produce near-fully dense parts.
+
+Q: Can internal cooling channels be printed?
+A: Yes, complex internal channels are possible.
+
+Q: How does vacuum casting compare to injection molding?
+A: It is ideal for low volumes with similar appearance.
+
+Q: Can Zeal 3D support production tooling?
+A: Yes, tooling and molds can be produced.
+
+Q: What is topology optimization?
+A: It removes unnecessary material while retaining strength.
+
+Q: Can Zeal 3D produce load-bearing components?
+A: Yes, with appropriate materials and design.
+
+Q: Are printed parts suitable for vibration testing?
+A: Yes, especially engineering-grade materials.
+
+Q: Can Zeal 3D assist with compliance testing prototypes?
+A: Yes, prototypes can be built for certification testing.
+
+Q: Is additive manufacturing scalable to production?
+A: Yes, especially for low to medium volumes.
+
+Q: Can Zeal 3D integrate multiple parts into one design?
+A: Yes, part consolidation is a major advantage.
+
+Q: What is 3D printing?
+A: 3D printing is a manufacturing process that creates physical objects layer by layer from a digital 3D model.
+
+Q: Why is it called 3D printing?
+A: Because it produces three-dimensional objects by adding material instead of removing it.
+
+Q: How does 3D printing work?
+A: A machine reads a digital design file and builds the object layer by layer.
+
+Q: What is needed to start 3D printing?
+A: A 3D design file, suitable material, and a 3D printer.
+
+Q: What file format is used for 3D printing?
+A: Common formats include STL, STEP, and 3MF.
+
+Q: Is 3D printing only for prototypes?
+A: No, it is also used for end-use and production parts.
+
+Q: What materials can be used in 3D printing?
+A: Plastics, resins, metals, and flexible materials.
+
+Q: What are the advantages of 3D printing?
+A: Fast production, design freedom, and low tooling cost.
+
+Q: Is 3D printing accurate?
+A: Yes, industrial 3D printing provides high accuracy.
+
+Q: Can 3D printing make complex shapes?
+A: Yes, it can produce geometries not possible with traditional methods.
+
+Q: What industries use 3D printing?
+A: Automotive, medical, aerospace, architecture, and education.
+
+Q: What is additive manufacturing?
+A: Additive manufacturing is another term for 3D printing.
+
+Q: How strong are 3D printed parts?
+A: Strength depends on material and printing technology.
+
+Q: Can 3D printing replace traditional manufacturing?
+A: It can replace it for low to medium production volumes.
+
+Q: What is layer height in 3D printing?
+A: Layer height defines the thickness of each printed layer.
+
+Q: Does 3D printing reduce waste?
+A: Yes, it uses only the material needed.
+
+Q: Can 3D printing be used for mass customization?
+A: Yes, each part can be easily customized.
+
+Q: What is rapid manufacturing?
+A: Using 3D printing for direct production of parts.
+
+Q: Can 3D printing produce functional parts?
+A: Yes, many parts are fully functional.
+
+Q: Is 3D printing cost-effective?
+A: Yes, especially for prototypes and small batches.
+
+Q: What is vacuum casting?
+A: Vacuum casting is a manufacturing process used to create high-quality plastic parts using silicone molds.
+
+Q: Why is vacuum casting used?
+A: It is used for low-volume production with injection-molded quality.
+
+Q: How does vacuum casting work?
+A: Liquid resin is poured into a silicone mold under vacuum to prevent air bubbles.
+
+Q: What materials are used in vacuum casting?
+A: Polyurethane resins that mimic ABS, PP, or rubber.
+
+Q: How many parts can be made from one mold?
+A: Typically 20 to 50 parts per silicone mold.
+
+Q: Is vacuum casting expensive?
+A: It is cost-effective for low-volume production.
+
+Q: Are vacuum cast parts strong?
+A: Yes, they are durable and suitable for functional use.
+
+Q: What is the surface finish of vacuum cast parts?
+A: Smooth and close to injection-molded quality.
+
+Q: Can vacuum casting produce colored parts?
+A: Yes, colors can be mixed into the resin.
+
+Q: Is vacuum casting suitable for prototypes?
+A: Yes, it is ideal for functional and visual prototypes.
+
+Q: How is vacuum casting different from 3D printing?
+A: Vacuum casting uses molds, while 3D printing builds layer by layer.
+
+Q: When should vacuum casting be used instead of 3D printing?
+A: When multiple identical parts are needed.
+
+Q: Can vacuum casting replicate injection molding?
+A: Yes, it closely mimics injection-molded parts.
+
+Q: Is vacuum casting suitable for mass production?
+A: No, it is best for low-volume runs.
+
+Q: Can vacuum casting parts be flexible?
+A: Yes, rubber-like materials can be used.
+
+Q: Are vacuum cast parts accurate?
+A: Yes, they offer high dimensional accuracy.
+
+Q: Can undercuts be produced with vacuum casting?
+A: Yes, silicone molds allow undercuts.
+
+Q: How long does vacuum casting production take?
+A: Typically a few days per batch.
+
+Q: Is tooling required for vacuum casting?
+A: Yes, silicone molds are required.
+
+Q: Can vacuum casting be used for end-use parts?
+A: Yes, especially for short-run production.
+
+Q: What types of rapid prototyping services does Zeal 3D offer?
+A: Zeal 3D provides 3D printing, vacuum casting, CNC machining, injection molding, and other advanced manufacturing services.
+
+Q: Can Zeal 3D help from design to final part delivery?
+A: Yes, their team coordinates projects from initial evaluation to final delivery.
+
+Q: Does Zeal 3D provide professional advice before manufacturing?
+A: Yes, they offer professional advice on selecting the best prototyping and manufacturing services.
+
+Q: How many materials does Zeal 3D offer for 3D printing?
+A: Zeal 3D prints in more than 25 industrial-grade materials.
+
+Q: Can Zeal 3D finish printed parts to match brand aesthetics?
+A: Yes, they can paint and texture plastic or metal printed parts.
+
+Q: Does Zeal 3D provide online 3D printing services?
+A: Yes, they offer online quote and file upload capabilities.
+
+Q: What CAD file formats can you upload to Zeal 3D?
+A: STL, STEP, WRL, 3MF, DAE, and OBJ files are accepted.
+
+Q: Can Zeal 3D suggest materials based on the part’s application?
+A: Yes, their experts will recommend the best materials if you specify the application.
+
+Q: Do Zeal 3D services include 3D scanning and CAD support?
+A: Yes, they offer 3D scanning and design services as part of their solutions.
+
+Q: Is there a minimum order quantity (MOQ) for 3D printing services?
+A: There is no MOQ — you can order even a single printed part.
+
+Q: What is FDM 3D printing used for at Zeal 3D?
+A: FDM is used for affordable rapid prototyping and industrial-strength parts with mechanical, thermal, and chemical resistance.
+
+Q: What is SLA 3D printing best suited for?
+A: SLA is ideal for high-resolution, precise parts used in product design and functional prototypes.
+
+Q: What advantages does PolyJet 3D printing offer?
+A: PolyJet produces high-definition, smooth, and accurate parts with fine details and minimal tooling.
+
+Q: What industries use Zeal 3D’s SLS technology?
+A: SLS is commonly used in product development and functional prototyping across industries.
+
+Q: Can Zeal 3D print metal components?
+A: Yes, they use DMLS and SLM technologies to print complex metal parts.
+
+Q: Are thermoplastic materials available for 3D printing at Zeal 3D?
+A: Yes, materials like ABS, PLA, nylon, acrylic, and more are offered.
+
+Q: What is the benefit of metal 3D printing?
+A: Metal printing produces lightweight, strong parts with complex geometries.
+
+Q: Does Zeal 3D serve specialised industries like aerospace and automotive?
+A: Yes, they provide additive manufacturing solutions for aerospace, automotive, mining, medical, and more.
+
+Q: Can Zeal 3D produce multicolor and multi-material parts?
+A: Yes, technologies like PolyJet allow multicolor and multi-material printing.
+
+Q: Are 3D printed parts suitable for tooling and functional jigs?
+A: Yes, many industrial tools and jigs can be manufactured using 3D printing.
+
+Q: What industries does Zeal 3D serve with digital manufacturing solutions?
+A: Zeal 3D serves aerospace, mining, automotive, defence, architecture, education, and more.
+
+Q: Can Zeal 3D create mining equipment components using additive manufacturing?
+A: Yes, they offer printing solutions for mining components in plastic and metal materials.
+
+Q: Does Zeal 3D offer composite manufacturing services?
+A: Yes, they provide composite manufacturing using carbon fibre and other reinforced materials.
+
+Q: What strength advantages do carbon fibre 3D prints have?
+A: Carbon fibre prints offer superior strength, rigidity, and heat resistance.
+
+Q: Does Zeal 3D provide precision CNC machining?
+A: Yes, CNC machining services are offered as part of contract manufacturing.
+
+Q: Can Zeal 3D produce large products with vacuum casting?
+A: Yes, vacuum casting can produce parts up to 2.5 meters long.
+
+Q: What tolerance does Zeal 3D achieve in CNC machining?
+A: CNC machining at Zeal 3D can hold tolerances up to ±0.01 mm.
+
+Q: Does Zeal 3D support mass manufacturing services?
+A: Yes, they provide mass production manufacturing via injection molding, CNC, and vacuum casting.
+
+Q: Can Zeal 3D manufacture custom launch or concept parts?
+A: Yes, their digital manufacturing solutions support concept to production manufacturing.
+
+Q: Are specialty post-processing services available?
+A: Yes, finishing options like polishing, plating, and surface treatments are offered.
+
+Q: Does Zeal 3D offer training or design support for CAD users?
+A: Yes, they provide CAD drafting, design, and modelling support.
+
+Q: Can Zeal 3D convert 2D designs into 3D CAD models?
+A: Yes, they offer 2D to 3D conversion and rendering services.
+
+Q: Is quality control part of their manufacturing process?
+A: Yes, they adhere to industry standards and quality control practices.
+
+Q: Can Zeal 3D assist with FEA (finite element analysis)?
+A: Yes, they offer FEA and CAE services to support product validation.
+
+Q: Do Zeal 3D parts meet industry specifications?
+A: Yes, parts are manufactured to meet engineering and industry requirements.
+
+Q: Explain 3D printing?
+A: 3D printing is a manufacturing process that creates three-dimensional objects by building them layer by layer from a digital design file.
+
+Q: What is vacuum casting?
+A: Vacuum casting is a manufacturing process where liquid resin is poured into a silicone mold under vacuum to produce high-quality plastic parts, usually for low-volume production.
+
