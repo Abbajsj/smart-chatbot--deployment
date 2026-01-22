@@ -1,12 +1,15 @@
 from flask import Flask, render_template, request, jsonify
-from search_engine import TextSearchEngine
+from search_engine import SemanticSearchEngine
 from logger import log_chat
 import os
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+# ------------------- APP SETUP -------------------
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 app = Flask(__name__, template_folder="templates")
 
+
+# ------------------- LOAD KNOWLEDGE -------------------
 
 def load_knowledge():
     qa_pairs = []
@@ -38,8 +41,6 @@ def load_knowledge():
     return qa_pairs
 
 
-# -------- Load knowledge --------
-
 qa_pairs = load_knowledge()
 
 all_questions = []
@@ -50,10 +51,12 @@ for questions, answer in qa_pairs:
         all_questions.append(q)
         question_to_answer.append(answer)
 
-engine = TextSearchEngine(all_questions)
+# ------------------- SEARCH ENGINE -------------------
+
+engine = SemanticSearchEngine(all_questions)
 
 
-# -------- Routes --------
+# ------------------- ROUTES -------------------
 
 @app.route("/")
 def home():
@@ -62,36 +65,46 @@ def home():
 
 @app.route("/chat", methods=["POST"])
 def chat():
-    data = request.json
+    data = request.get_json()
     username = data.get("username", "Guest")
     user_input = data.get("question", "").strip()
 
     if not user_input:
         return jsonify({
-            "answer": "Please enter a question.",
+            "answer": "Please enter a valid question.",
             "confidence": 0.0
         })
 
-    matched_questions, confidence = engine.search_multiple(user_input)
+    # 🔍 Semantic search
+    matched_questions = engine.search(user_input)
 
-    # No matches found
     if not matched_questions:
-        answer = "Sorry, I couldn't find relevant information contact to info@zeal3dprinting.com.au"
+        answer = (
+            "Sorry, I couldn't find relevant information for your question.\n\n"
+            "You can ask about:\n"
+            "- 3D printing\n"
+            "- Vacuum casting\n"
+            "- CAD services\n"
+            "- Engineering & manufacturing\n"
+            "- Materials\n"
+            "- Shipping across Australia\n\n"
+            "For custom enquiries, contact info@zeal3dprinting.com.au"
+        )
+        confidence = 0.0
     else:
         answers = []
         seen = set()
 
         for mq in matched_questions:
-            idx = engine.documents.index(mq)
+            idx = all_questions.index(mq)
             ans = question_to_answer[idx]
 
             if ans not in seen:
                 answers.append(ans)
                 seen.add(ans)
 
-        answer = "\n".join(
-            f"{i+1}. {a}" for i, a in enumerate(answers)
-        )
+        answer = " ".join(answers)
+        confidence = 1.0
 
     log_chat(username, user_input, answer, confidence)
 
@@ -100,6 +113,8 @@ def chat():
         "confidence": confidence
     })
 
+
+# ------------------- RUN -------------------
 
 if __name__ == "__main__":
     app.run(debug=True)
